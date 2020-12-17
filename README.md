@@ -1,6 +1,6 @@
 # funJadoo
 Jadoo fun app
-An attempt to make jadoo computer simulation.
+An attempt to make jadoo computer simulation from the movie Koi Mil Gya
 You can make it more awesome.
 I will happy if you give credits to me if you are modifying it.
 
